@@ -1,7 +1,7 @@
 package resolucaodeproblemas;
 
 import javax.swing.*;  
-import java.awt.event.*;  DSADSASAD
+import java.awt.event.*;
 
 public class TesteListas extends JFrame implements ActionListener{  
     JLabel l;  
